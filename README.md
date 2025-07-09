@@ -16,9 +16,6 @@ Built a logistic regression model in Python to predict customer responses to mar
 - Model evaluation using ROC curves and AUC
 - Business impact summary & top 10 customer scoring
 
-### [Customer Segmentation (Excel & PowerPoint)](https://github.com/YOUR-EXCEL-REPO-HERE)
-Performed Excel-based customer segmentation using charts, pivot tables, and formulas to uncover behavioral trends. Delivered insights in a polished PowerPoint deck for stakeholder presentation.
-
 
 
 ## 🛠️ Tools & Skills
