@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Introducing Myself
 
-![Bradley Bryant Banner](https://raw.githubusercontent.com/bradleyxbryant/bradleyxbryant/main/Bradley Bryant.png)
+![Bradley Bryant Banner](https://raw.githubusercontent.com/bradleyxbryant/bradleyxbryant/main/banner.png)
 
 Hi, I’m **Bradley Bryant** — a business analytics student and aspiring data analyst passionate about marketing, machine learning, and turning data into impact.
 
