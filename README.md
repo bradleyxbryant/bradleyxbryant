@@ -18,15 +18,15 @@ Built a logistic regression model in Python to predict customer responses to mar
 
 ### [Portfolio Optimization](https://github.com/bradleyxbryant/portfolio_optimization)
 Developed an Excel-based portfolio optimization model to maximize the Sharpe ratio of a $10,000 investment across NYSE stocks. Demonstrated a 2.16–2.85 Sharpe range, balance between diversification and returns. Includes:
--Monte Carlo simulation with 20-year horizon
--Portfolio allocation under realistic constraints
--Business-grade report, presentation decks, and model output
+- Monte Carlo simulation with 20-year horizon
+- Portfolio allocation under realistic constraints
+- Business-grade report, presentation decks, and model output
 
 ### [House Price Prediction](https://github.com/bradleyxbryant/House_Price_Prediction)
 Built a regression model in Python using Scikit-learn to predict housing prices with 85% R² and 9.3% error, using engineered features and scaling to improve prediction accuracy. Includes:
--Feature engineering (e.g., price per sqft, room ratio)
--EDA with Seaborn and Matplotlib to uncover key price drivers
--Final presentation styled for stakeholder audiences
+- Feature engineering (e.g., price per sqft, room ratio)
+- EDA with Seaborn and Matplotlib to uncover key price drivers
+- Final presentation styled for stakeholder audiences
 
 
 
