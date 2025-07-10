@@ -1,14 +1,14 @@
-# 🙋🏻‍♂️ Introducing Myself
+# Introducing Myself
 
 ![Bradley Bryant Banner](https://raw.githubusercontent.com/bradleyxbryant/bradleyxbryant/main/banner.png)
 
 Hi, I’m **Bradley Bryant** — a business analytics student and aspiring data analyst passionate about marketing, machine learning, and turning data into impact.
 
-📍 Based in Southern California | 🎓 Business Analytics Major | 💡 Building data projects to showcase real-world skills
+Based in Southern California | Business Analytics Major | Building data projects to showcase real-world skills
 
 
 
-## 📚 Projects
+## Projects
 
 ### [Customer Response Prediction](https://github.com/bradleyxbryant/Customer-Response-Prediction)
 Built a logistic regression model in Python to predict customer responses to marketing campaigns using a Kaggle dataset. Achieved **81.6% accuracy** and **0.763 AUC**, and identified top responders for ROI-driven targeting. Includes:
@@ -30,7 +30,7 @@ Built a regression model in Python using Scikit-learn to predict housing prices 
 
 
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 **Languages:** Python, SQL, Markdown  
 **Libraries:** Pandas, Scikit-learn, Seaborn, Matplotlib  
@@ -40,11 +40,11 @@ Built a regression model in Python using Scikit-learn to predict housing prices 
 
 
 
-## 👋🏻 Connect with Me
+## Connect with Me
 
-📇 [LinkedIn](https://www.linkedin.com/in/bradleyxbryant/)  
-📫 bradleyxbryant@gmail.com  
-🔎 Always open to data analyst internship or entry-level roles focused on marketing, CRM, or strategy
+[LinkedIn](https://www.linkedin.com/in/bradleyxbryant/)  
+bradleyxbryant@gmail.com  
+Always open to data analyst internship or entry-level roles focused on marketing, CRM, or strategy
 
 
 
