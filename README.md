@@ -4,8 +4,6 @@
 
 Hi, I’m **Bradley Bryant** — a business analytics student and aspiring data analyst passionate about marketing, machine learning, and turning data into impact.
 
-Based in Southern California | Business Analytics Major | Building data projects to showcase real-world skills
-
 
 
 ## Projects
