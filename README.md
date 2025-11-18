@@ -42,8 +42,6 @@ Built a regression model in Python using Scikit-learn to predict housing prices 
 
 [LinkedIn](https://www.linkedin.com/in/bradleyxbryant/)  
 bradleyxbryant@gmail.com  
-Always open to data analyst internship or entry-level roles focused on marketing, CRM, or strategy
-
 
 
 > “I’m not just learning analytics — I’m using it to solve real problems and tell compelling data stories.”
