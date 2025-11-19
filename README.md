@@ -12,11 +12,12 @@ I graduate in December 2025 and am building a portfolio centered around real ope
 ## Projects
 
 ### [Customer Response Prediction](https://github.com/bradleyxbryant/Customer-Response-Prediction)
-Built a predictive model in Python to identify demand signals and forecast customer responsiveness. Achieved 0.88 AUC using Logistic Regression and Random Forest.
+Built a predictive model in Python to identify demand signals and forecast customer response. Achieved 0.88 AUC using Logistic Regression and Random Forest.
 Key components:
 - Data cleaning, feature engineering, and standardization
 - Threshold tuning to balance precision/recall
 - Business-focused insights for resource allocation
+
 Skills: Python • Pandas • Scikit-Learn • Predictive Modeling • Feature Engineering
 
 ### [Portfolio Optimization](https://github.com/bradleyxbryant/portfolio_optimization)
@@ -25,6 +26,7 @@ Key components:
 - 40-stock allocation under capacity/diversification constraints
 - Monte Carlo simulations for scenario uncertainty
 - Sensitivity analysis for decision-making
+
 Skills: Excel Solver • Optimization • Monte Carlo Simulation • Risk Analysis
 
 
