@@ -2,39 +2,40 @@
 
 ![Bradley Bryant Banner](https://raw.githubusercontent.com/bradleyxbryant/bradleyxbryant/main/banner1.png)
 
-Hi, I’m **Bradley Bryant** — a business analytics student and aspiring data analyst passionate about marketing, machine learning, and turning data into impact.
+Hi, I’m Bradley Bryant — a Business Analytics student focused on supply chain, operations, and data-driven decision-making.
+I use analytics, forecasting, and optimization to improve operational performance and support smarter planning.
+
+I graduate in December 2025 and am building a portfolio centered around real operations problems: demand forecasting, inventory insights, scenario modeling, and KPI dashboards.
 
 
 
 ## Projects
 
 ### [Customer Response Prediction](https://github.com/bradleyxbryant/Customer-Response-Prediction)
-Built a logistic regression model in Python to predict customer responses to marketing campaigns using a Kaggle dataset. Achieved **81.6% accuracy** and **0.763 AUC**, and identified top responders for ROI-driven targeting. Includes:
-- Data cleaning & feature engineering in Pandas
-- Model evaluation using ROC curves and AUC
-- Business impact summary & top 10 customer scoring
+Built a predictive model in Python to identify demand signals and forecast customer responsiveness. Achieved 0.88 AUC using Logistic Regression and Random Forest.
+Key components:
+-Data cleaning, feature engineering, and standardization
+-Threshold tuning to balance precision/recall
+-Business-focused insights for resource allocation
+Skills: Python • Pandas • Scikit-Learn • Predictive Modeling • Feature Engineering
 
 ### [Portfolio Optimization](https://github.com/bradleyxbryant/portfolio_optimization)
-Developed an Excel-based portfolio optimization model to maximize the Sharpe ratio of a $10,000 investment across NYSE stocks. Demonstrated a 2.16–2.85 Sharpe range, balance between diversification and returns. Includes:
-- Monte Carlo simulation with 20-year horizon
-- Portfolio allocation under realistic constraints
-- Business-grade report, presentation decks, and model output
-
-### [House Price Prediction](https://github.com/bradleyxbryant/House_Price_Prediction)
-Built a regression model in Python using Scikit-learn to predict housing prices with 85% R² and 9.3% error, using engineered features and scaling to improve prediction accuracy. Includes:
-- Feature engineering (e.g., price per sqft, room ratio)
-- EDA with Seaborn and Matplotlib to uncover key price drivers
-- Final presentation styled for stakeholder audiences
+Developed a $10K portfolio optimization model to analyze risk, diversification, and scenario outcomes. Used Sharpe ratio, Monte Carlo simulations, and constraints similar to supply-chain risk planning.
+Key components:
+-40-stock allocation under capacity/diversification constraints
+-Monte Carlo simulations for scenario uncertainty
+-Sensitivity analysis for decision-making
+Skills: Excel Solver • Optimization • Monte Carlo Simulation • Risk Analysis
 
 
 
 ## Tools & Skills
 
-**Languages:** Python, SQL, Markdown  
-**Libraries:** Pandas, Scikit-learn, Seaborn, Matplotlib  
-**Data Tools:** Excel (VLOOKUP, PivotTables), PowerPoint, Google Colab  
-**Modeling:** Logistic Regression, Random Forest, Feature Selection, Threshold Tuning  
-**Visualization:** Seaborn Charts, Excel Dashboards, Matplotlib  
+**Languages:** Python, SQL 
+**Libraries:** Pandas, Scikit-learn, Seaborn, Matplotlib, NumPy
+**Data Tools:** Excel (VLOOKUP, PivotTables), 
+**Modeling:** Forecasting Models, Classification, Optimization, Monte Carlo
+**Visualization:** Tableu Dashboards, Seaborn, Matplotlib  
 
 
 
@@ -44,4 +45,4 @@ Built a regression model in Python using Scikit-learn to predict housing prices 
 bradleyxbryant@gmail.com  
 
 
-> “I’m not just learning analytics — I’m using it to solve real problems and tell compelling data stories.”
+> “I use analytics to improve planning, strengthen operations, and help teams make smarter decisions.”
