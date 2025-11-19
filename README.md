@@ -5,8 +5,6 @@
 Hi, I’m Bradley Bryant — a Business Analytics student focused on supply chain, operations, and data-driven decision-making.
 I use analytics, forecasting, and optimization to improve operational performance and support smarter planning.
 
-I graduate in December 2025 and am building a portfolio centered around real operations problems: demand forecasting, inventory insights, scenario modeling, and KPI dashboards.
-
 
 
 ## Projects
@@ -16,16 +14,18 @@ Built a predictive model in Python to identify demand signals and forecast custo
 Key components:
 - Data cleaning, feature engineering, and standardization
 - Threshold tuning to balance precision/recall
-- Business-focused insights for resource allocation
+- Business focused insights for resource allocation
 
 Skills: Python • Pandas • Scikit-Learn • Predictive Modeling • Feature Engineering
+
+
 
 ### [Portfolio Optimization](https://github.com/bradleyxbryant/portfolio_optimization)
 Developed a $10K portfolio optimization model to analyze risk, diversification, and scenario outcomes. Used Sharpe ratio, Monte Carlo simulations, and constraints similar to supply-chain risk planning.
 Key components:
 - 40-stock allocation under capacity/diversification constraints
 - Monte Carlo simulations for scenario uncertainty
-- Sensitivity analysis for decision-making
+- Sensitivity analysis for decision making
 
 Skills: Excel Solver • Optimization • Monte Carlo Simulation • Risk Analysis
 
