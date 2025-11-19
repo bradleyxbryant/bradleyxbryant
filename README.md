@@ -2,7 +2,7 @@
 
 ![Bradley Bryant Banner](https://raw.githubusercontent.com/bradleyxbryant/bradleyxbryant/main/banner3.png)
 
-Hi, I’m Bradley Bryant — a Business Analytics student focused on supply chain, operations, and data-driven decision-making.
+Hi, I’m Bradley Bryant — a Business Analytics student focused on supply chain, operations, and data driven decision making.
 I use analytics, forecasting, and optimization to improve operational performance and support smarter planning.
 
 
