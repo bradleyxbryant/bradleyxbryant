@@ -2,7 +2,7 @@
 
 ![Bradley Bryant Banner](https://raw.githubusercontent.com/bradleyxbryant/bradleyxbryant/main/banner3.png)
 
-Hi, I’m Bradley Bryant. I use data to understand how businesses operate and where performance can improve. My background is in business analytics, with experience in forecasting, modeling, and dashboarding.
+Hi, I’m Bradley. I use data to understand how businesses operate and where performance can improve. My background is in business analytics, with experience in forecasting, modeling, and dashboarding.
 
 
 
