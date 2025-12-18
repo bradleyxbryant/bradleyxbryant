@@ -2,30 +2,29 @@
 
 ![Bradley Bryant Banner](https://raw.githubusercontent.com/bradleyxbryant/bradleyxbryant/main/banner3.png)
 
-Hi, I’m Bradley Bryant — a Business Analytics student focused on supply chain, operations, and data driven decision making.
-I use analytics, forecasting, and optimization to improve operational performance and support smarter planning.
+Hi, I’m Bradley Bryant. I use data to understand how businesses operate and where performance can improve. My background is in business analytics, with experience in forecasting, modeling, and dashboarding.
 
 
 
 ## Projects
 
 ### [Customer Response Prediction](https://github.com/bradleyxbryant/Customer-Response-Prediction)
-Built a predictive model in Python to identify demand signals and forecast customer response. Achieved 0.88 AUC using Logistic Regression and Random Forest.
+Built predictive models in Python to identify customers most likely to respond to marketing campaigns. Trained Logistic Regression and Random Forest models on a 2,240-record CRM dataset, achieving an AUC of 0.88. Results informed campaign targeting decisions and resource allocation.
 
-- Data cleaning, feature engineering, and standardization
-- Threshold tuning to balance precision/recall
-- Business focused insights for resource allocation
-
+- Cleaned CRM data through imputation, feature engineering, and standardization
+- Tuned probability thresholds to balance precision versus recall
+- Translated model outputs into actionable targeting insights
+  
 Skills: Python • Pandas • Scikit-Learn • Predictive Modeling • Feature Engineering
 
 
 
 ### [Portfolio Optimization](https://github.com/bradleyxbryant/portfolio_optimization)
-Developed a $10K portfolio optimization model to analyze risk, diversification, and scenario outcomes. Used Sharpe ratio, Monte Carlo simulations, and constraints similar to supply-chain risk planning.
+Developed a $10,000 portfolio optimization model in Excel to evaluate diversification strategies and risk-adjusted performance. Applied constraint-based allocation to compare portfolio outcomes under uncertainty.
 
-- 40-stock allocation under capacity/diversification constraints
-- Monte Carlo simulations for scenario uncertainty
-- Sensitivity analysis for decision making
+- Built a 40-stock allocation model with diversification constraints
+- Applied Monte Carlo simulation to evaluate risk exposure
+- Performed sensitivity analysis to support investment decisions
 
 Skills: Excel Solver • Optimization • Monte Carlo Simulation • Risk Analysis
 
@@ -35,13 +34,11 @@ Skills: Excel Solver • Optimization • Monte Carlo Simulation • Risk Analys
 
 **Languages:** Python, SQL 
 
-**Libraries:** Pandas, Scikit-learn, Seaborn, Matplotlib, NumPy
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-**Data Tools:** Excel (VLOOKUP, PivotTables), 
+**Data Tools:** Excel (PivotTables, VLOOKUP), Tableau
 
-**Modeling:** Forecasting Models, Classification, Optimization, Monte Carlo
-
-**Visualization:** Tableu Dashboards, Seaborn, Matplotlib  
+**Analytics:** Data Cleaning, Predictive Modeling, Classification, Optimization, Monte Carlo Simulation
 
 
 
@@ -51,4 +48,4 @@ Skills: Excel Solver • Optimization • Monte Carlo Simulation • Risk Analys
 bradleyxbryant@gmail.com  
 
 
-> “I use analytics to improve planning, strengthen operations, and help teams make smarter decisions.”
+> “I use analytics to improve planning and help teams make smarter decisions.”
